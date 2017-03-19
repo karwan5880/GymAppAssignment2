@@ -1,4 +1,9 @@
-update 1
+update 2 (kw)
+--------------
+- also nothing much changes 
+
+
+update 1 (kw)
 --------
 well nothing particularly important just a few button and a few sqllite database function. 
 
